@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^22.13.11",
-    "express": "^5.1.0"
+    "cli": "^1.0.1",
+    "express": "^5.1.0",
+    "vercel": "^41.7.8"
   }
 }
